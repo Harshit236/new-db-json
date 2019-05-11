@@ -5,7 +5,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "users": {  "name": "Leanne Graham",
+  "users": {  "id": 1,
+              "name": "Leanne Graham",
               "username": "Bret",
               "email": "Sincere@april.biz" }
 }
